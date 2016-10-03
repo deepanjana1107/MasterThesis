@@ -1,1 +1,7 @@
-# MasterThesis
+# A Study of Seasonal Patterns of Birth for Velke Pole, Slovakia between 1781 and 1900
+
+## Abstract
+This thesis aims to study the birth seasonality patterns in Velke Pole for the period between 1781 and 1900, broken down into periods of 10 years. It also attempts to analyse the relationship between birth seasonality, temperature and precipitation.
+To achieve these goals certain statistical methods were chosen to help this research along. Due to the absence of any recorded climatological data for Velke Pole, the geostatistical interpolation technique of ordinary Kriging was used to spatially interpolate temperature and precipitation data for Velke Pole based on nine known sample points for the years 1860-1900. The estimated values retrieved from Kriging were then used to extrapolate temperature data for the years 1781-1859.
+Ordinary Least Squares multiple regression statistical technique was used to regress birth data against monthly dummies with and without temperature and precipitation controls to find information on the influence of these factors on the birth seasonality pattern.
+It is evident from the results that although precipitation was not a significant enough determinant of birth seasonality, temperature might have a larger role to play as an influencer, but it still cannot be held completely responsible for the seasonal pattern. Multiple factors work together to influence this phenomenon that has been observed in almost all populations.
