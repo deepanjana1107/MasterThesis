@@ -1,0 +1,2 @@
+long,lat,alt,stn
+15.0933,48.2178,368.1428,Mean-Position
